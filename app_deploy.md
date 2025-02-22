@@ -23,7 +23,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/mialeevs/argocd-demo-public.git
+    repoURL: https://github.com/Raidi13/arco_cd.git
     targetRevision: lab 
     path: apptwo
   destination:
